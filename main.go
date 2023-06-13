@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"golang.org/x/term"
 	"os"
-	"pw3/algorithm"
-	"pw3/arguments"
 	"syscall"
+
+	"github.com/nakkamarra/pw3/algorithm"
+	"github.com/nakkamarra/pw3/arguments"
 )
 
 func main() {
