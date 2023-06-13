@@ -2,7 +2,8 @@ package arguments
 
 import (
 	"flag"
-	"pw3/algorithm"
+
+	"github.com/nakkamarra/pw3/algorithm"
 )
 
 // Arguments represents the potential arguments passed to this program
